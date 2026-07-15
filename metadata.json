@@ -1,0 +1,6 @@
+{
+  "name": "محلل البيتكوين",
+  "description": "تطبيق أندرويد لتحليل بيانات BTCUSDT زمنيًا وفلكيًا من Binance",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
